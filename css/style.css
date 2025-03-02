@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+.container h1 {
+    color: #007bff;
+}
+
+.btn-success {
+    font-size: 1.2rem;
+    transition: 0.3s;
+}
+
+.btn-success:hover {
+    background-color: #0056b3;
+}
